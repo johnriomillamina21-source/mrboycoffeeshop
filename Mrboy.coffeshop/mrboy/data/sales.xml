@@ -1,0 +1,49 @@
+</html<?xml version='1.0' encoding='UTF-8'?>
+<sales>
+  <sale id="701">
+    <product>Lychee</product>
+    <category>Fruit Teas</category>
+    <size>medium</size>
+    <qty>4</qty>
+    <price>29</price>
+    <cogs>15</cogs>
+    <date>2026-06-11</date>
+  </sale>
+  <sale id="702">
+    <product>Winter Melon</product>
+    <category>Milk Tea</category>
+    <size>medium</size>
+    <qty>2</qty>
+    <price>29</price>
+    <cogs>15</cogs>
+    <date>2026-06-14</date>
+  </sale>
+  <sale id="703">
+    <product>Dark Choco</product>
+    <category>Milk Tea</category>
+    <size>medium</size>
+    <qty>1</qty>
+    <price>45</price>
+    <cogs>25</cogs>
+    <date>2026-06-14</date>
+  </sale>
+  <sale id="704">
+    <product>Lychee</product>
+    <category>Fruit Teas</category>
+    <size>extraLarge</size>
+    <qty>3</qty>
+    <price>69</price>
+    <cogs>35</cogs>
+    <date>2026-06-14</date>
+  </sale>
+  <sale id="705">
+    <product>Hot Americano</product>
+    <category>Hot Coffee</category>
+    <size>medium</size>
+    <qty>1</qty>
+    <price>39</price>
+    <cogs>20</cogs>
+    <date>2026-06-14</date>
+  </sale>
+</sales>
+<?xml version="1.0" encoding="UTF-8"?>

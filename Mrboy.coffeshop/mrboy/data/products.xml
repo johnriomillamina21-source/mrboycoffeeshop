@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product id="101" category="Milk Tea">
+    <name>Winter Melon</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="102" category="Milk Tea">
+    <name>Okinawa</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="103" category="Milk Tea">
+    <name>Classic</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="104" category="Milk Tea">
+    <name>Salted Caramel</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="105" category="Milk Tea">
+    <name>ChocoMousse</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="106" category="Milk Tea">
+    <name>CookiesNCream</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="107" category="Milk Tea">
+    <name>StrawberryOreo</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="201" category="Frappe">
+    <name>Chocolate Frappe</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>79</extraLarge>
+  </product>
+  <product id="202" category="Frappe">
+    <name>Caramel Frappe</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>79</extraLarge>
+  </product>
+  <product id="203" category="Frappe">
+    <name>Cookies &amp; Cream Frappe</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>79</extraLarge>
+  </product>
+  <product id="204" category="Frappe">
+    <name>Strawberry Frappe</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>79</extraLarge>
+  </product>
+  <product id="301" category="Fruit Teas">
+    <name>Lychee</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="302" category="Fruit Teas">
+    <name>Passion Fruit</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="303" category="Fruit Teas">
+    <name>Green Apple</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="304" category="Fruit Teas">
+    <name>Blueberry</name>
+    <medium>29</medium>
+    <large>39</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="401" category="Hot Coffee">
+    <name>Hot Americano</name>
+    <medium>39</medium>
+    <large>49</large>
+    <extraLarge>59</extraLarge>
+  </product>
+  <product id="402" category="Hot Coffee">
+    <name>Hot Latte</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="403" category="Hot Coffee">
+    <name>Hot Cappuccino</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="404" category="Hot Coffee">
+    <name>Hot Mocha</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="501" category="Iced Coffee">
+    <name>Iced Americano</name>
+    <medium>39</medium>
+    <large>49</large>
+    <extraLarge>59</extraLarge>
+  </product>
+  <product id="502" category="Iced Coffee">
+    <name>Iced Latte</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="503" category="Iced Coffee">
+    <name>Iced Mocha</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+  <product id="504" category="Iced Coffee">
+    <name>Iced Caramel</name>
+    <medium>49</medium>
+    <large>59</large>
+    <extraLarge>69</extraLarge>
+  </product>
+</products>
+<?xml version="1.0" encoding="UTF-8"?>
